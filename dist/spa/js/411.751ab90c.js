@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunk_97eats_admin"]=self["webpackChunk_97eats_admin"]||[]).push([[411],{1411:(e,n,t)=>{t.r(n),t.d(n,{default:()=>a});var s=t(3673);function r(e,n){const t=(0,s.up)("router-view");return(0,s.wg)(),(0,s.j4)(t)}const u={};u.render=r;const a=u}}]);
